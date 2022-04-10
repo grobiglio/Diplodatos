@@ -28,8 +28,8 @@ Josefina Meirovich - [ajmeirovich@gmail.com](jmeirovich@gmail.com)
 ## Entregables
 
 Análisis y Visualización de Datos
-- [] Entregable 1
-- [] Entregable 2
+- [ ] Entregable 1
+- [ ] Entregable 2
 
 Análisis Exploratorio y Curación de Datos
 
