@@ -21,15 +21,15 @@ Página web de la Diplomatura :point_right: https://diplodatos.famaf.unc.edu.ar/
 |Alejandro Garay|[alejandroggaray@gmail.com](alejandroggaray@gmail.com)|
 |Guillermo Robiglio|[grobiglio@mi.unc.edu.ar](grobiglio@mi.unc.edu.ar)|
 
-## Instructota
+## Instructora
 
 Josefina Meirovich - [ajmeirovich@gmail.com](jmeirovich@gmail.com)
 
 ## Entregables
 
 Análisis y Visualización de Datos
-- [ ] Entregable 1
-- [ ] Entregable 2
+- [ ] Trabajo Práctico Entregable - Parte 1
+- [ ] Trabajo Práctico Entregable - Parte 2
 
 Análisis Exploratorio y Curación de Datos
 
