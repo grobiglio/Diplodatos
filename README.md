@@ -16,10 +16,10 @@ Página web de la Diplomatura :point_right: https://diplodatos.famaf.unc.edu.ar/
 
 |Nombre|Dirección de correo electrónico|
 |------|-------------------------------|
-|Gisela Brunetto|[gisebrunetto@gmail.com](gisebrunetto@gmail.com)|
-|Andrés Luna|[andresluna2007@gmail.com](andresluna2007@gmail.com)|
-|Alejandro Garay|[alejandroggaray@gmail.com](alejandroggaray@gmail.com)|
-|Guillermo Robiglio|[grobiglio@mi.unc.edu.ar](grobiglio@mi.unc.edu.ar)|
+|Gisela Brunetto|[gisebrunetto@gmail.com](mailto:gisebrunetto@gmail.com)|
+|Andrés Luna|[andresluna2007@gmail.com](mailto:andresluna2007@gmail.com)|
+|Alejandro Garay|[alejandroggaray@gmail.com](mailto:alejandroggaray@gmail.com)|
+|Guillermo Robiglio|[grobiglio@mi.unc.edu.ar](mailto:grobiglio@mi.unc.edu.ar)|
 
 ## Instructora
 
@@ -27,14 +27,16 @@ Josefina Meirovich - [ajmeirovich@gmail.com](jmeirovich@gmail.com)
 
 ## Entregables
 
-Análisis y Visualización de Datos
-- [ ] Trabajo Práctico Entregable - Parte 1
-- [ ] Trabajo Práctico Entregable - Parte 2
+- Análisis y Visualización de Datos
 
-Análisis Exploratorio y Curación de Datos
+  - [x] [Trabajo Práctico Entregable - Parte 1](./1-Analisis-y-Visualizacion/Grupo_14_Entregable_Parte_1.ipynb)
+  - [x] [Trabajo Práctico Entregable - Parte 2](./1-Analisis-y-Visualizacion/Grupo_14_Entregable_Parte_2.ipynb)
+  - [x] [Respruesta al Ejercicio 3 de la Parte 2](./1-Analisis-y-Visualizacion/Grupo_14_Entregable_2_Ejercicio_3.pdf)
 
-Introducción al Aprendizaje Automático
+- Análisis Exploratorio y Curación de Datos
 
-Aprendizaje Supervisado
+- Introducción al Aprendizaje Automático
 
-Aprendizaje No Supervisado
+- Aprendizaje Supervisado
+
+- Aprendizaje No Supervisado
