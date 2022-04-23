@@ -4,6 +4,8 @@
 
 Página web de la Diplomatura :point_right: https://diplodatos.famaf.unc.edu.ar/
 
+Repositorio de la Diplomatura :point_right: https://github.com/DiploDatos
+
 <hr style="border-color: yellow">
 
 ### Este repositorio contiene los <u>entregables del Grupo 14</u> solicitados para aprobar la Diplomatura.
