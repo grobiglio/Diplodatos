@@ -37,6 +37,9 @@ Josefina Meirovich - [ajmeirovich@gmail.com](jmeirovich@gmail.com)
 
 - Análisis Exploratorio y Curación de Datos
 
+  - [ ] Trabajo Práctico Entregable - Parte 1
+  - [ ] Trabajo Práctico Entregable - Parte 2
+
 - Introducción al Aprendizaje Automático
 
 - Aprendizaje Supervisado
