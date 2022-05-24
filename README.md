@@ -42,6 +42,9 @@ Josefina Meirovich - [ajmeirovich@gmail.com](jmeirovich@gmail.com)
 
 - Introducción al Aprendizaje Automático
 
+  - [ ] Lab 1
+  - [ ] Lab 2
+
 - Aprendizaje Supervisado
 
 - Aprendizaje No Supervisado
