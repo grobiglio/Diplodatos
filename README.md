@@ -37,12 +37,13 @@ Josefina Meirovich - [ajmeirovich@gmail.com](jmeirovich@gmail.com)
 
 - Análisis Exploratorio y Curación de Datos
 
-  - [ ] Trabajo Práctico Entregable - Parte 1
-  - [ ] Trabajo Práctico Entregable - Parte 2
+  - [x] [Trabajo Práctico Entregable - Parte 1](./2-Analisis-Exploratorio/Grupo14_entregable_Parte_1_2022.ipynb)
+  - [x] [Trabajo Práctico Entregable - Parte 2](./2-Analisis-Exploratorio/Grupo14_entregable_Parte_2_2022.ipynb)
+  - [x] [Respruesta al Ejercicio 5 de la Parte 2](./2-Analisis-Exploratorio/README.md)
 
 - Introducción al Aprendizaje Automático
 
-  - [ ] Lab 1
+  - [x] [Lab 1](./3-Intro-Machine-Learning/Lab%201.ipynb)
   - [ ] Lab 2
 
 - Aprendizaje Supervisado
