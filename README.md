@@ -44,8 +44,10 @@ Josefina Meirovich - [ajmeirovich@gmail.com](jmeirovich@gmail.com)
 - Introducción al Aprendizaje Automático
 
   - [x] [Lab 1](./3-Intro-Machine-Learning/Lab%201.ipynb)
-  - [ ] Lab 2
+  - [x] [Lab 2](./3-Intro-Machine-Learning/Lab%202.ipynb)
 
 - Aprendizaje Supervisado
 
+  - [ ] Práctico
+  
 - Aprendizaje No Supervisado
