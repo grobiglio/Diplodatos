@@ -29,7 +29,7 @@ Josefina Meirovich - [ajmeirovich@gmail.com](jmeirovich@gmail.com)
 
 ## Entregables
 
-- Análisis y Visualización de Datos
+- Análisis y Visualización de Datos (Aprobado 🥇)
 
   - [x] [Trabajo Práctico Entregable - Parte 1](./1-Analisis-y-Visualizacion/Grupo_14_Entregable_Parte_1.ipynb)
   - [x] [Trabajo Práctico Entregable - Parte 2](./1-Analisis-y-Visualizacion/Grupo_14_Entregable_Parte_2.ipynb)
@@ -51,3 +51,5 @@ Josefina Meirovich - [ajmeirovich@gmail.com](jmeirovich@gmail.com)
   - [ ] Práctico
   
 - Aprendizaje No Supervisado
+
+  - [ ] Práctico
