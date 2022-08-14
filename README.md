@@ -48,7 +48,7 @@ Josefina Meirovich - [ajmeirovich@gmail.com](jmeirovich@gmail.com)
 
 - Aprendizaje Supervisado
 
-  - [ ] Práctico
+  - [x] [Práctico](./4-Aprendizaje-Supervisado/baseline.ipynb)
   
 - Aprendizaje No Supervisado
 
