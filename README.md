@@ -35,7 +35,7 @@ Josefina Meirovich - [ajmeirovich@gmail.com](jmeirovich@gmail.com)
   - [x] [Trabajo Práctico Entregable - Parte 2](./1-Analisis-y-Visualizacion/Grupo_14_Entregable_Parte_2.ipynb)
   - [x] [Respruesta al Ejercicio 3 de la Parte 2](./1-Analisis-y-Visualizacion/Grupo_14_Entregable_2_Ejercicio_3.pdf)
 
-- Análisis Exploratorio y Curación de Datos
+- Análisis Exploratorio y Curación de Datos (Aprobado 🥇)
 
   - [x] [Trabajo Práctico Entregable - Parte 1](./2-Analisis-Exploratorio/Grupo14_entregable_Parte_1_2022.ipynb)
   - [x] [Trabajo Práctico Entregable - Parte 2](./2-Analisis-Exploratorio/Grupo14_entregable_Parte_2_2022.ipynb)
