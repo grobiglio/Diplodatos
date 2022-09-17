@@ -52,4 +52,4 @@ Josefina Meirovich - [ajmeirovich@gmail.com](jmeirovich@gmail.com)
   
 - Aprendizaje No Supervisado
 
-  - [ ] Práctico
+  - [x] [Práctico](./5-Aprendizaje-No-Supervisado/Practico.ipynb)
