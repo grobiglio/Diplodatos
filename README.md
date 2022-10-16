@@ -41,15 +41,15 @@ Josefina Meirovich - [ajmeirovich@gmail.com](jmeirovich@gmail.com)
   - [x] [Trabajo Práctico Entregable - Parte 2](./2-Analisis-Exploratorio/Grupo14_entregable_Parte_2_2022.ipynb)
   - [x] [Respruesta al Ejercicio 5 de la Parte 2](./2-Analisis-Exploratorio/README.md)
 
-- Introducción al Aprendizaje Automático
+- Introducción al Aprendizaje Automático (Aprobado 🥇)
 
   - [x] [Lab 1](./3-Intro-Machine-Learning/Lab%201.ipynb)
   - [x] [Lab 2](./3-Intro-Machine-Learning/Lab%202.ipynb)
 
-- Aprendizaje Supervisado
+- Aprendizaje Supervisado (Aprobado 🥇)
 
   - [x] [Práctico](./4-Aprendizaje-Supervisado/baseline.ipynb)
   
-- Aprendizaje No Supervisado
+- Aprendizaje No Supervisado (Aprobado 🥇)
 
   - [x] [Práctico](./5-Aprendizaje-No-Supervisado/Practico.ipynb)
